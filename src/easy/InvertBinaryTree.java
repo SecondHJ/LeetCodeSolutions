@@ -10,6 +10,9 @@ package easy;
  *
  * .....LOL
  *
+ * 解决思路:
+ * 直接DFS递归置换两个子节点。。。
+ *
  * Created by second on 2017/7/13.
  */
 public class InvertBinaryTree {
