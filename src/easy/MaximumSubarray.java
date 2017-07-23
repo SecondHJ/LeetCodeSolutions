@@ -16,13 +16,12 @@ public class MaximumSubarray {
 
     public int maxSubArray(int[] nums) {
         int largest = -2147483647;
-        int sum = 0;
         for (int i = 0; i < nums.length; i++){
+            int sum = 0;
             for (int j = i; j < nums.length; j++){
                 sum += nums[j];
                 largest = sum > largest ? sum : largest;
             }
-            sum = 0;
         }
         return largest;
     }
