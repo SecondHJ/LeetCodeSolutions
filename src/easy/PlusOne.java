@@ -6,6 +6,8 @@ package easy;
  * The digits are stored such that the most significant digit is at the head of the list.
  *
  * 解决思路:
+ * 题意是给出一个数组代表一个数组，在这个基础上+1并返回
+ * 如: 传入[1, 0, 0] 则返回 [1, 0, 1] , 传入 [9, 9, 9] 则返回[1, 0, 0, 0]
  * 反向遍历数组依次进行加法的进位运算，如无进位则立即break循环
  * 如计算完成最后还有进位则拓展数组将1进位
  *
