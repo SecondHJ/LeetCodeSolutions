@@ -1,6 +1,6 @@
 # My LeetCode Solutions  
 
-### Solved Easy Problems 
+### Solved Easy Problems: 
 -    AddStrings  
 -    BinaryTreePaths  
 -    ContainsDuplicate  
