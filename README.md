@@ -3,7 +3,7 @@
 ------------------------
 
 ## Solved:
-###Easy  
+### Easy  
     -    AddStrings  
     -    BinaryTreePaths  
     -    ContainsDuplicate  
