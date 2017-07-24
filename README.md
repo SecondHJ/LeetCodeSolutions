@@ -28,4 +28,5 @@
 -    [SymmetricTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SymmetricTree.java)  
 -    [TwoSum](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/TwoSum.java)  
 -    [UglyNumber](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/UglyNumber.java)  
--    [ValidParentheses](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidParentheses.java)  
+-    [ValidParentheses](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidParentheses.java) 
+-    [MaximumDepthOfBinaryTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaximumDepthOfBinaryTree.java)
