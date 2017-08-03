@@ -31,3 +31,4 @@
 -    [ValidParentheses](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidParentheses.java) 
 -    [MaximumDepthOfBinaryTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaximumDepthOfBinaryTree.java)
 -    [MajorityElement](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MajorityElement.java)
+-    [ReverseLinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseLinkedList.java)
