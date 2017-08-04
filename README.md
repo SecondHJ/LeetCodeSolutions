@@ -30,5 +30,6 @@
 -    [UglyNumber](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/UglyNumber.java)  
 -    [ValidParentheses](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidParentheses.java) 
 -    [MaximumDepthOfBinaryTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaximumDepthOfBinaryTree.java)
+-    [MinimumDepthOfBinaryTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MinimumDepthOfBinaryTree.java)
 -    [MajorityElement](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MajorityElement.java)
 -    [ReverseLinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseLinkedList.java)
