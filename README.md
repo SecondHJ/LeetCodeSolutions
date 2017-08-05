@@ -32,3 +32,4 @@
 -    [MaximumDepthOfBinaryTree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaximumDepthOfBinaryTree.java)
 -    [MajorityElement](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MajorityElement.java)
 -    [ReverseLinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseLinkedList.java)
+-    [RemoveDuplicatesFromSortedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveDuplicatesFromSortedList.java)
