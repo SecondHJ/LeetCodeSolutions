@@ -36,3 +36,4 @@
 -    [RemoveDuplicatesFromSortedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveDuplicatesFromSortedList.java)
 -    [SumOfTwoIntegers](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SumOfTwoIntegers.java)
 -    [PalindromeLinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PalindromeLinkedList.java)
+-    [FirstUniqueCharacterInAString](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/FirstUniqueCharacterInAString.java)
