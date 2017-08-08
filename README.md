@@ -38,3 +38,4 @@
 -    [PalindromeLinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PalindromeLinkedList.java)
 -    [FirstUniqueCharacterInAString](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/FirstUniqueCharacterInAString.java)
 -    [ReverseString](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseString.java)
+-    [LongestCommonPrefix](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/LongestCommonPrefix.java)
