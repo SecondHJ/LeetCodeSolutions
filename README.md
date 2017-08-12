@@ -42,3 +42,4 @@
 -    [FizzBuzz](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/FizzBuzz.java)
 -    [ReverseVowelsOfAString](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseVowelsOfAString.java)
 -    [IntersectionOfTwoArrays](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/IntersectionOfTwoArrays.java)
+-    [DeleteNodeInALinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/amaster/src/easy/DeleteNodeInALinkedList.java)
