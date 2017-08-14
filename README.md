@@ -43,3 +43,5 @@
 -    [ReverseVowelsOfAString](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseVowelsOfAString.java)
 -    [IntersectionOfTwoArrays](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/IntersectionOfTwoArrays.java)
 -    [RemoveLinkedListElements](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveLinkedListElements.java)
+-    [DeleteNodeInALinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/amaster/src/easy/DeleteNodeInALinkedList.java)
+-    [IntersectionOfTwoArraysII](https://github.com/SecondHJ/LeetCodeSolutions/blob/amaster/src/easy/IntersectionOfTwoArraysII.java)
