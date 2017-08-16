@@ -45,3 +45,4 @@
 -    [RemoveLinkedListElements](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveLinkedListElements.java)
 -    [DeleteNodeInALinkedList](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/DeleteNodeInALinkedList.java)
 -    [IntersectionOfTwoArraysII](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/IntersectionOfTwoArraysII.java)
+-    [SumOfLeftLeaves](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SumOfLeftLeaves.java)
