@@ -46,3 +46,4 @@
 -    [Intersection of Two Arrays II](https://github.com/SecondHJ/LeetCodeSolutions/blob/amaster/src/easy/IntersectionOfTwoArraysII.java)
 -    [Sum of Left Leaves](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SumOfLeftLeaves.java)
 -    [Power of Three](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PowerOfThree.java)
+-    [Contains Duplicate II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ContainsDuplicateII.java)
