@@ -47,3 +47,4 @@
 -    [Sum of Left Leaves](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SumOfLeftLeaves.java)
 -    [Power of Three](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PowerOfThree.java)
 -    [Contains Duplicate II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ContainsDuplicateII.java)
+-    [Pascal's Triangle II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PascalsTriangleII.java)
