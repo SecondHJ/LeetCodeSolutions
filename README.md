@@ -48,3 +48,4 @@
 -    [Power of Three](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PowerOfThree.java)
 -    [Contains Duplicate II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ContainsDuplicateII.java)
 -    [Pascal's Triangle II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PascalsTriangleII.java)
+-    [Add Digits](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/AddDigits.java)
