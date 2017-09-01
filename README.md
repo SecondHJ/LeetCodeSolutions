@@ -49,3 +49,4 @@
 -    [Contains Duplicate II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ContainsDuplicateII.java)
 -    [Pascal's Triangle II](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/PascalsTriangleII.java)
 -    [Add Digits](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/AddDigits.java)
+-    [Max Consecutive Ones](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaxConsecutiveOnes.java)
