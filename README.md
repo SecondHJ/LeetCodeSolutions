@@ -51,3 +51,4 @@
 -    [Add Digits](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/AddDigits.java)
 -    [Max Consecutive Ones](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaxConsecutiveOnes.java)
 -    [Add Binary](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/AddBinary.java)
+-    [Number Complement](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/NumberComplement.java)
