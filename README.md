@@ -53,3 +53,4 @@
 -    [Add Binary](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/AddBinary.java)
 -    [Number Complement](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/NumberComplement.java)
 -    [Number of Segments in a String](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/NumberOfSegmentsInAString.java)
+-    [Maximum Product of Three Numbers](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MaximumProductOfThreeNumbers.java)
