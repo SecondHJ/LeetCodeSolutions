@@ -8,7 +8,7 @@ package easy;
  *
  * Example 1:
  * Input:
- * 	        Tree 1                     Tree 2
+ *        Tree 1                     Tree 2
  *           1                         2
  *          / \                       / \
  *         3   2                     1   3
