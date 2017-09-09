@@ -9,6 +9,9 @@ package easy;
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1].
  *
+ * 解决思路:
+ * 嵌套循环搜索
+ *
  * Created by second on 2017/7/13.
  */
 public class TwoSum {
@@ -16,7 +19,7 @@ public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] copy = nums;
         for(int i = 0; i < nums.length; i++){
-            for(int j = 0; j < nums.length; j++){
+            for(int j = i + 1; j < nums.length; j++){
                 if((nums[i] + copy[j]) == target && i != j){
                     return new int[]{i,j};
                 }
