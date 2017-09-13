@@ -20,6 +20,7 @@ import java.util.Map;
  * 解决思路:
  * 遍历字符串，通过map对出现字符计数，在按顺序存入计数List，最后对比两个字符串的字符计数List是否相同
  *
+ * Created by second on 2017/9/13.
  */
 public class IsomorphicStrings {
 
