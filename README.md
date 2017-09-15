@@ -60,3 +60,4 @@
 -    [Reverse Bits](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ReverseBits.java)
 -    [Isomorphic Strings](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/IsomorphicStrings.java)
 -    [Valid Perfect Square](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidPerfectSquare.java)
+-    [Judge Route Circle](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/JudgeRouteCircle.java)
