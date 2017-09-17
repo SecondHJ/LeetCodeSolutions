@@ -62,3 +62,4 @@
 -    [Valid Perfect Square](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ValidPerfectSquare.java)
 -    [Judge Route Circle](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/JudgeRouteCircle.java)
 -    [Subtree of Another Tree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SubtreeOfAnotherTree.java)
+-    [Second Minimum Node In a Binary Tree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SecondMinimumNodeInABinaryTree.java)
