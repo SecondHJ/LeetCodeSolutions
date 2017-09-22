@@ -65,3 +65,4 @@
 -    [Second Minimum Node In a Binary Tree](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/SecondMinimumNodeInABinaryTree.java)
 -    [Arranging Coins](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/ArrangingCoins.java)
 -    [Remove Linked List Elements](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveLinkedListElements.java)
+-    [Minimum Absolute Difference in BST](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MinimumAbsoluteDifferenceInBST.java)
