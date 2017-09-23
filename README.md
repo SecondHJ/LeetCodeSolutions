@@ -67,3 +67,4 @@
 -    [Remove Linked List Elements](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RemoveLinkedListElements.java)
 -    [Minimum Absolute Difference in BST](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/MinimumAbsoluteDifferenceInBST.java)
 -    [Roman to Integer](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/RomanToInteger.java)
+-    [Student Attendance Record I](https://github.com/SecondHJ/LeetCodeSolutions/blob/master/src/easy/StudentAttendanceRecordI.java)
