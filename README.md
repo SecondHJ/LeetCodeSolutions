@@ -70,3 +70,4 @@
 -    [Student Attendance Record I](src/easy/StudentAttendanceRecordI.java)
 -    [Island Perimeter](src/easy/IslandPerimeter.java)
 -    [Count and Say](src/easy/CountAndSay.java)
+-    [Number of 1 Bits](src/easy/NumberOf1Bits.java)
