@@ -74,3 +74,4 @@
 -    [Average of Levels in Binary Tree](src/easy/AverageOfLevelsInBinaryTree.java)
 -    [Binary Tree Level Order Traversal II](src/easy/BinaryTreeLevelOrderTraversalII.java)
 -    [Excel Sheet Column Number](src/easy/ExcelSheetColumnNumber.java)
+-    [Excel Sheet Column Title](src/easy/ExcelSheetColumnTitle.java)
