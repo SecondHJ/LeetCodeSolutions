@@ -5,7 +5,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Given a Binary Search Tree and a target number, return true if there exist two elements in the BST such that their sum is equal to the given target.
+ * Given a Binary Search Tree and a target number,
+ * return true if there exist two elements in the BST such that their sum is equal to the given target.
  *
  * Example 1:
  * Input:
