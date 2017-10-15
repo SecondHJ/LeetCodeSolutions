@@ -78,3 +78,6 @@
 -    [Two Sum IV - Input is a BST](src/easy/TwoSumIV.java)
 -    [Guess Number Higher or Lower](src/easy/GuessNumberHigherOrLower.java)
 -    [Find All Numbers Disappeared in an Array](src/easy/FindAllNumbersDisappearedInAnArray.java)
+
+### Solved Medium Problems: 
+-    [Path Sum II](src/medium/PathSumII.java)
