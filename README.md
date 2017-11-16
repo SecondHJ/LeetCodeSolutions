@@ -79,6 +79,7 @@
 -    [Guess Number Higher or Lower](src/easy/GuessNumberHigherOrLower.java)
 -    [Find All Numbers Disappeared in an Array](src/easy/FindAllNumbersDisappearedInAnArray.java)
 -    [Word Pattern](src/easy/WordPattern.java)
+-    [Longest Univalue Path](src/easy/LongestUnivaluePath.java)
 
 ### Solved Medium Problems: 
 -    [Path Sum II](src/medium/PathSumII.java)
