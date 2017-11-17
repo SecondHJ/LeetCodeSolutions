@@ -80,6 +80,7 @@
 -    [Find All Numbers Disappeared in an Array](src/easy/FindAllNumbersDisappearedInAnArray.java)
 -    [Word Pattern](src/easy/WordPattern.java)
 -    [Longest Univalue Path](src/easy/LongestUnivaluePath.java)
+-    [Range Sum Query - Immutable](src/easy/NumArray.java)
 
 ### Solved Medium Problems: 
 -    [Path Sum II](src/medium/PathSumII.java)
