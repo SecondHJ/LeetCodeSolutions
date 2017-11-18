@@ -1,47 +1,54 @@
 package medium;
 
+import java.util.LinkedList;
+import java.util.List;
+
 /**
- * Created by second on 2017/10/18.
+ * Reverse a linked list from position m to n. Do it in-place and in one-pass.
+ *
+ * For example:
+ *      Given 1->2->3->4->5->NULL, m = 2 and n = 4,
+ *      return 1->4->3->2->5->NULL.
+ * Note:
+ *      Given m, n satisfy the following condition:
+ *      1 ≤ m ≤ n ≤ length of list.
+ *
+ * 解决思路:
+ * step 1
+ *     将需要被反转的一节链表加入一个单独的list
+ * step 2
+ *     遍历原链表并反向组合list
+ *
+ * Created by second on 2017/11/18.
  */
 public class ReverseLinkedListII {
 
-    int index = 0;
-
-    ListNode left;
-
-    ListNode right;
-
-    ListNode fuck;
-
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        index++;
-        if (head == null || head.next == null) return head;
-        if (index == m - 1) left = head;
-        if (index == n){
-            right = head;
-            fuck = head.next;
-        }
-        reverseBetween(head.next, m, n);
-        index--;
-        if (index > m && index < n) {
-            if (index == n - 1 && left != null) {
-                left.next = head.next;
+        List<Integer> list = new LinkedList<>();
+        // step 1
+        int index = 1;
+        ListNode node = head;
+        while (node != null && index <= n){
+            if (index >= m) {
+                list.add(node.val);
             }
-            head.next.next = head;
-            head.next = null;
+            index++;
+            node = node.next;
         }
-        if (index == m){
-            head.next.next = head;
-            head.next = fuck;
-        }
-        if (index == m - 1) {
-            head.next = right;
+        // step 2
+        node = head;
+        index = 1;
+        int count = 1;
+        while (node != null && index <= n){
+            if (index >= m) {
+                node.val = list.get(list.size() - count);
+                count++;
+            }
+            index++;
+            node = node.next;
         }
         return head;
     }
-
-    // left.next = 4
-    // 1 -> 2 -> 3 <- 4 -> 5
 
     private class ListNode {
         int val;
@@ -52,22 +59,4 @@ public class ReverseLinkedListII {
         }
     }
 
-    public void test(){
-        ListNode node = new ListNode(1);
-        node.next = new ListNode(2);
-        node.next.next = new ListNode(3);
-        node.next.next.next = new ListNode(4);
-        node.next.next.next.next = new ListNode(5);
-        ListNode boo = reverseBetween(node, 1,2);
-        while (boo != null){
-            System.out.println(boo.val);
-            boo = boo.next;
-        }
-
-    }
-
-    public static void main(String[] args) {
-        ReverseLinkedListII list = new ReverseLinkedListII();
-        list.test();
-    }
 }
