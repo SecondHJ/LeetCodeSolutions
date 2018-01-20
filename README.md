@@ -81,6 +81,7 @@
 -    [Word Pattern](src/easy/WordPattern.java)
 -    [Longest Univalue Path](src/easy/LongestUnivaluePath.java)
 -    [Range Sum Query - Immutable](src/easy/NumArray.java)
+-    [Implement strStr()](src/easy/ImplementstrStr.java)
 
 ### Solved Medium Problems: 
 -    [Path Sum II](src/medium/PathSumII.java)
