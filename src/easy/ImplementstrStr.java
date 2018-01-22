@@ -19,7 +19,7 @@ package easy;
  */
 public class ImplementstrStr {
 
-    public static int strStr(String haystack, String needle) {
+    public int strStr(String haystack, String needle) {
         if (haystack.equals(needle) || needle.length() == 0) return 0;
         for (int i = 0; i <= haystack.length() - needle.length(); i++){
             if (haystack.charAt(i) == needle.charAt(0)){
@@ -30,10 +30,6 @@ public class ImplementstrStr {
             }
         }
         return -1;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(strStr("mississippi","pi"));
     }
 
 }
