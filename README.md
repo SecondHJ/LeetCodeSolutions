@@ -82,6 +82,7 @@
 -    [Longest Univalue Path](src/easy/LongestUnivaluePath.java)
 -    [Range Sum Query - Immutable](src/easy/NumArray.java)
 -    [Implement strStr()](src/easy/ImplementstrStr.java)
+-    [Convert Sorted Array to Binary Search Tree](src/easy/ConvertSortedArrayToBinarySearchTree.java)
 
 ### Solved Medium Problems: 
 -    [Path Sum II](src/medium/PathSumII.java)
