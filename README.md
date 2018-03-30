@@ -1,3 +1,6 @@
+
+[![](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg)](https://github.com/SecondHJ/LeetCodeSolutions)
+
 # My LeetCode Solutions  
 
 ### Solved Easy Problems: 
