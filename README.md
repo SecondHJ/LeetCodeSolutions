@@ -86,6 +86,7 @@
 -    [Range Sum Query - Immutable](src/easy/NumArray.java)
 -    [Implement strStr()](src/easy/ImplementstrStr.java)
 -    [Convert Sorted Array to Binary Search Tree](src/easy/ConvertSortedArrayToBinarySearchTree.java)
+-    [License Key Formatting](src/easy/LicenseKeyFormatting.java)
 
 ### Solved Medium Problems: 
 -    [Path Sum II](src/medium/PathSumII.java)
